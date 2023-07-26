@@ -24,3 +24,4 @@
 <br>
 
 ## Tools
+- [List of metrics & KPI](https://github.com/robotsatan/PM-Repos/blob/main/tools/metrics.md)
