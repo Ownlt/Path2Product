@@ -10,6 +10,7 @@
 - Escaping the Build Trap: How Effective Product Management Creates Real Value by Melissa Perri
 - Hooked: How to Build Habit-Forming Products by Nir Eyal
 - The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries
+- Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel
 
 <br>
 
