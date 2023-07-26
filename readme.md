@@ -2,6 +2,8 @@
 
 > Ressources for product manager
 
+<br>
+
 ## Books
 
 1. &#128215; User Story Mapping: Discover the Whole Story, Build the Right Product by Jeff Patton
