@@ -2,6 +2,7 @@
 
 ## Guides
 
+<br>
 
 ## Books
 
@@ -10,16 +11,22 @@
 - Hooked: How to Build Habit-Forming Products by Nir Eyal
 - The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries
 
+<br>
+
 ## Videos
 
+<br>
 
 ## Templates
 
+<br>
+
 ## Influencers
 
+<br>
 
 ## Illustrations
 
+<br>
 
 ## Links
-
