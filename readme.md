@@ -11,6 +11,7 @@
 - Hooked: How to Build Habit-Forming Products by Nir Eyal
 - The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries
 - Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel
+- Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days by Jake Knapp
 
 <br>
 
