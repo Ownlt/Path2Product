@@ -12,7 +12,7 @@
 - The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries
 - Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel
 - Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days by Jake Knapp
-- 0x0001F4D4 [Shape Up Stop Running in Circles and Ship Work that Matters by Ryan Singer](https://basecamp.com/shapeup)
+- &#x1F4D4; [Shape Up Stop Running in Circles and Ship Work that Matters by Ryan Singer](https://basecamp.com/shapeup)
 - The Design of Everyday Things by Donald Norman
 
 <br>
