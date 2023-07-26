@@ -1,6 +1,8 @@
 # Product management metrics & KPI
 > list of useful metrics
 
+<br>
+
 1. Defects deferred to next sprint
 2. Production issues reported in 30 days post go-live
 3. Deployments in off mode
