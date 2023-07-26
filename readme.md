@@ -1,8 +1,6 @@
 # Product Management Repository
 
-## Guides
-
-<br>
+> Ressources for product manager
 
 ## Books
 
