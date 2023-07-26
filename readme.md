@@ -18,7 +18,7 @@
 <br>
 
 ## Videos
-- 
+- [Escaping the Build Trap - Melissa Perri](https://www.youtube.com/watch?v=DmJXpI7OJuY)
 
 <br>
 
