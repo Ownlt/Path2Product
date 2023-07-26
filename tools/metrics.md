@@ -1,5 +1,5 @@
 # Product management metrics & KPI
-> list of useful metrics
+> list of metrics
 
 <br>
 
