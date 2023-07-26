@@ -17,7 +17,8 @@
 
 <br>
 
-## Videos
+## Videos ![image](https://github.com/robotsatan/PM-Repos/assets/7671656/a037c2a5-aa7f-4274-a50b-00f30d9804a3)
+
 - [Escaping the Build Trap - Melissa Perri](https://www.youtube.com/watch?v=DmJXpI7OJuY)
 
 <br>
