@@ -28,6 +28,7 @@
 - The Product Kata ([Article](https://melissaperri.com/blog/2015/07/22/the-product-kata))
 - HEART Framework ([Article](https://www.appcues.com/blog/google-improves-user-experience-with-heart-framework), [Video](https://www.youtube.com/watch?v=YugESrDVHuo))
 
+<br>
 
 ## Tools
 - [Metrics & KPI](https://github.com/robotsatan/PM-Repos/blob/main/tools/metrics.md)
