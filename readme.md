@@ -19,8 +19,8 @@
 
 ## Videos
 
-- [Escaping the Build Trap by Melissa Perri](https://www.youtube.com/watch?v=DmJXpI7OJuY)
-- [The Root Causes of Product Failure by Marty Cagan](https://www.youtube.com/watch?v=9dccd8lihpQ)
+- [Escaping the Build Trap](https://www.youtube.com/watch?v=DmJXpI7OJuY) `Melissa Perri`
+- [The Root Causes of Product Failure](https://www.youtube.com/watch?v=9dccd8lihpQ) `Marty Cagan`
 
 <br>
 
