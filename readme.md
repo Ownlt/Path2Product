@@ -12,7 +12,7 @@
 4. The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries
 5. Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel
 6. Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days by Jake Knapp
-7. [Shape Up Stop Running in Circles and Ship Work that Matters by Ryan Singer](https://basecamp.com/shapeup)
+7. Shape Up Stop Running in Circles and Ship Work that Matters by Ryan Singer [(Free online book)](https://basecamp.com/shapeup)
 8. The Design of Everyday Things by Donald Norman
 
 <br>
