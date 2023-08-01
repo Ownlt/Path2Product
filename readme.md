@@ -21,6 +21,7 @@
 
 - [Escaping the Build Trap by Melissa Perri](https://www.youtube.com/watch?v=DmJXpI7OJuY)
 - [The Root Causes of Product Failure by Marty Cagan](https://www.youtube.com/watch?v=9dccd8lihpQ)
+- [Introduction to Modern Product Discovery by Teresa Torres](https://www.youtube.com/watch?v=l7-5x0ra2tc)
 
 <br>
 
