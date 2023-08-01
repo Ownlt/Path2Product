@@ -1,6 +1,6 @@
 # Product Management Repository
 
-> Ressources for product manager
+> Ressources for product manager and my journey in the product management univers
 
 <br>
 
