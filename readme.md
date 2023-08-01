@@ -14,6 +14,7 @@
 6. [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days by Jake Knapp](https://amzn.to/3qlz83D)
 7. [Shape Up Stop Running in Circles and Ship Work that Matters by Ryan Singer](https://basecamp.com/shapeup) `Free`
 8. [The Design of Everyday Things by Donald Norman](https://amzn.to/3YoubUn) `Design`
+9. [Measure What Matters by John Doerr](https://amzn.to/3DBTkRN) `OKR`
 
 <br>
 
@@ -31,6 +32,7 @@
 - HEART Framework ([Article](https://www.appcues.com/blog/google-improves-user-experience-with-heart-framework), [Video](https://www.youtube.com/watch?v=YugESrDVHuo))
 - AARRR Framework ([Article](https://www.designwithvalue.com/aarrr-framework))
 - Qualitative Cost of Delay ([Article](https://blackswanfarming.com/qualitative-cost-delay/), [Video](https://www.youtube.com/watch?v=OmU5yIu7vRw))
+- Objectives and Key Results, OKRs ([Article](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/), [Book]())
 
 <br>
 
