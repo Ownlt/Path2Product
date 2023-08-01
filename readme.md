@@ -6,7 +6,7 @@
 
 ## &#128215; Books
 
-1. User Story Mapping: Discover the Whole Story, Build the Right Product by Jeff Patton [Amazon](https://amzn.to/44PptkO)
+1. User Story Mapping: Discover the Whole Story, Build the Right Product by Jeff Patton ([Amazon](https://amzn.to/44PptkO))
 2. Escaping the Build Trap: How Effective Product Management Creates Real Value by Melissa Perri
 3. Hooked: How to Build Habit-Forming Products by Nir Eyal
 4. The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries
