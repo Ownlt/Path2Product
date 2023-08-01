@@ -28,6 +28,7 @@
 - The Product Kata ([Article](https://melissaperri.com/blog/2015/07/22/the-product-kata))
 - HEART Framework `Metric` ([Article](https://www.appcues.com/blog/google-improves-user-experience-with-heart-framework), [Video](https://www.youtube.com/watch?v=YugESrDVHuo))
 - AARRR Framework `Metric` ([Article](https://www.designwithvalue.com/aarrr-framework))
+- Qualitative Cost of Delay ([Article](https://blackswanfarming.com/qualitative-cost-delay/), [Video](https://www.youtube.com/watch?v=OmU5yIu7vRw))
 
 <br>
 
