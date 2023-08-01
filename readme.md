@@ -25,8 +25,8 @@
 
 
 ## Framework & concepts
-- [The Product Kata](https://melissaperri.com/blog/2015/07/22/the-product-kata)
-- HEART Framework [Video](https://www.youtube.com/watch?v=YugESrDVHuo)
+- The Product Kata ([Article - Melissa Perri](https://melissaperri.com/blog/2015/07/22/the-product-kata))
+- HEART Framework ([Article](https://www.appcues.com/blog/google-improves-user-experience-with-heart-framework), [Video](https://www.youtube.com/watch?v=YugESrDVHuo))
 
 
 ## Tools
