@@ -23,5 +23,13 @@
 
 <br>
 
+
+## Framework & concepts
+- [The Product Kata](https://melissaperri.com/blog/2015/07/22/the-product-kata)
+- HEART Framework [Video](https://www.youtube.com/watch?v=YugESrDVHuo)
+
+
 ## Tools
-- [List of metrics & KPI](https://github.com/robotsatan/PM-Repos/blob/main/tools/metrics.md)
+- [Metrics & KPI](https://github.com/robotsatan/PM-Repos/blob/main/tools/metrics.md)
+
+
