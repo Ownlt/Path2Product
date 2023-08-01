@@ -35,7 +35,7 @@
 - Objectives and Key Results, OKRs ([Article](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/))
 - Optimal Product Process, OPP ([280group](https://280group.com/product-management-methodology/optimal-product-process-framework/))
 - Elevator Pitch Framework
-- DIBB Framwork ([Article](https://artkai.io/blog/dibb-framework))
+- DIBB Framework ([Article](https://artkai.io/blog/dibb-framework))
 
 <br>
 
