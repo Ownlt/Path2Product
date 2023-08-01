@@ -32,7 +32,7 @@
 - HEART Framework ([Article](https://www.appcues.com/blog/google-improves-user-experience-with-heart-framework), [Video](https://www.youtube.com/watch?v=YugESrDVHuo))
 - AARRR Framework ([Article](https://www.designwithvalue.com/aarrr-framework))
 - Qualitative Cost of Delay ([Article](https://blackswanfarming.com/qualitative-cost-delay/), [Video](https://www.youtube.com/watch?v=OmU5yIu7vRw))
-- Objectives and Key Results, OKRs ([Article](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/), [Book]())
+- Objectives and Key Results, OKRs ([Article](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/))
 
 <br>
 
