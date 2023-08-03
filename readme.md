@@ -27,7 +27,7 @@
 <br>
 
 
-## Framework & concepts
+## Divers `WIP`
 - The Product Kata ([Article](https://melissaperri.com/blog/2015/07/22/the-product-kata))
 - HEART Framework ([Article](https://www.appcues.com/blog/google-improves-user-experience-with-heart-framework), [Video](https://www.youtube.com/watch?v=YugESrDVHuo))
 - AARRR Pirate Metrics ([Article](https://www.designwithvalue.com/aarrr-framework))
@@ -36,6 +36,18 @@
 - Optimal Product Process, OPP ([280group](https://280group.com/product-management-methodology/optimal-product-process-framework/))
 - Elevator Pitch Framework
 - DIBB Framework ([Article](https://artkai.io/blog/dibb-framework))
+- Wardley Map
+- ITIL
+- Disciplined Agile (DA)
+- Scrum
+- Agile
+- DevOps
+- Product Requirements Document
+- Market Requirements Document
+- Lean Canvas
+- Golden Circle
+- Critical Thinking
+- 
 
 <br>
 
