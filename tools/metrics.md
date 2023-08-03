@@ -3,8 +3,7 @@
 
 <br>
 
-/* TODO : Categorize */
-
+- The North Star Metric (NSM)
 - Deployments in off mode
 - Value return effort
 - Return on investement
