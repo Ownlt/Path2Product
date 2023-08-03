@@ -9,11 +9,11 @@
 1. [Escaping the Build Trap by Melissa Perri](https://amzn.to/3OCL8ad) `Product leadership`
 2. [User Story Mapping by Jeff Patton](https://amzn.to/44PptkO) `User Stories`
 3. [Hooked by Nir Eyal](https://amzn.to/3KlvKN7) `User Behaviour`
-4. [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries](https://amzn.to/3Ohzu3h)
-5. [Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel](https://amzn.to/47bmG7h)
-6. [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days by Jake Knapp](https://amzn.to/3qlz83D) `Discovery`
+4. [The Lean Startup by Eric Ries](https://amzn.to/3Ohzu3h)
+5. [Zero to One by Peter Thiel](https://amzn.to/47bmG7h)
+6. [Sprint by Jake Knapp](https://amzn.to/3qlz83D) `Discovery`
 7. [Shape Up Stop Running in Circles and Ship Work that Matters by Ryan Singer](https://basecamp.com/shapeup) `Free`
-8. [The Design of Everyday Things by Donald Norman](https://amzn.to/3YoubUn) 
+8. [The Design of Everyday Things by Donald Norman](https://amzn.to/3YoubUn) `Design`
 9. [Measure What Matters by John Doerr](https://amzn.to/3DBTkRN) `Goals`
 
 <br>
