@@ -47,7 +47,7 @@
 - Lean Canvas
 - Golden Circle
 - Critical Thinking
-- 
+- Kanban
 
 <br>
 
