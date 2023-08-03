@@ -44,7 +44,6 @@
 - Elevator Pitch Framework
 - DIBB Framework ([Article](https://artkai.io/blog/dibb-framework))
 - Wardley Map
-- ITIL
 - Disciplined Agile (DA)
 - Scrum
 - Agile
@@ -62,6 +61,14 @@
 - Pricing Strategy
 - Product Launching
 - Design & Build
+- Double diamond framework
+- North Star Framework
+- Kano Model
+- RICE Prioritization
+- Jobs To Be Done (JTBD)
+- 5 Why's Framework
+- Porter 5 Forces
+- 
 
 <br>
 
