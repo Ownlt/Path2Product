@@ -14,7 +14,7 @@
 6. [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days by Jake Knapp](https://amzn.to/3qlz83D) `Discovery`
 7. [Shape Up Stop Running in Circles and Ship Work that Matters by Ryan Singer](https://basecamp.com/shapeup) `Free`
 8. [The Design of Everyday Things by Donald Norman](https://amzn.to/3YoubUn) 
-9. [Measure What Matters by John Doerr](https://amzn.to/3DBTkRN)
+9. [Measure What Matters by John Doerr](https://amzn.to/3DBTkRN) `Goals`
 
 <br>
 
