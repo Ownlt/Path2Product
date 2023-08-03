@@ -34,7 +34,7 @@
 
 ---
 
-## Divers // Work in progress
+## Work in progress
 - The Product Kata ([Article](https://melissaperri.com/blog/2015/07/22/the-product-kata))
 - HEART Framework ([Article](https://www.appcues.com/blog/google-improves-user-experience-with-heart-framework), [Video](https://www.youtube.com/watch?v=YugESrDVHuo))
 - AARRR Pirate Metrics ([Article](https://www.designwithvalue.com/aarrr-framework))
