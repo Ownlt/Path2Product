@@ -26,8 +26,15 @@
 
 <br>
 
+## Tools
+- [Metrics & KPI](https://github.com/robotsatan/PM-Repos/blob/main/tools/metrics.md)
+- [Speaker Canvas](https://github.com/robotsatan/product-management-repository/blob/main/tools/Speaker%20Canvas.pdf)
 
-## Divers `WIP`
+<br>
+
+---
+
+## Divers // Work in progress
 - The Product Kata ([Article](https://melissaperri.com/blog/2015/07/22/the-product-kata))
 - HEART Framework ([Article](https://www.appcues.com/blog/google-improves-user-experience-with-heart-framework), [Video](https://www.youtube.com/watch?v=YugESrDVHuo))
 - AARRR Pirate Metrics ([Article](https://www.designwithvalue.com/aarrr-framework))
@@ -48,11 +55,14 @@
 - Golden Circle
 - Critical Thinking
 - Kanban
+- Market research
+- Customer research
+- Product performance
+- Segmentation
+- Pricing Strategy
+- Product Launching
+- Design & Build
 
 <br>
-
-## Tools
-- [Metrics & KPI](https://github.com/robotsatan/PM-Repos/blob/main/tools/metrics.md)
-- [Speaker Canvas](https://github.com/robotsatan/product-management-repository/blob/main/tools/Speaker%20Canvas.pdf)
 
 
