@@ -6,9 +6,9 @@
 
 ## &#128215; Books
 
-1. [Escaping the Build Trap: How Effective Product Management Creates Real Value by Melissa Perri](https://amzn.to/3OCL8ad) `Product leadership`
-2. [User Story Mapping: Discover the Whole Story, Build the Right Product by Jeff Patton](https://amzn.to/44PptkO) `User Stories`
-3. [Hooked: How to Build Habit-Forming Products by Nir Eyal](https://amzn.to/3KlvKN7) `User Behaviour`
+1. [Escaping the Build Trap by Melissa Perri](https://amzn.to/3OCL8ad) `Product leadership`
+2. [User Story Mapping by Jeff Patton](https://amzn.to/44PptkO) `User Stories`
+3. [Hooked by Nir Eyal](https://amzn.to/3KlvKN7) `User Behaviour`
 4. [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries](https://amzn.to/3Ohzu3h)
 5. [Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel](https://amzn.to/47bmG7h)
 6. [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days by Jake Knapp](https://amzn.to/3qlz83D) `Discovery`
