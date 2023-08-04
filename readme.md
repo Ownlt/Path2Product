@@ -68,7 +68,6 @@
 - Jobs To Be Done (JTBD)
 - 5 Why's Framework
 - Porter 5 Forces
-- 
 
 <br>
 
