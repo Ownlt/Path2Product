@@ -1,20 +1,22 @@
 # Product Management Repository
 
+## About
+
 > Ressources for product manager and my journey in the product management univers
 
 <br>
 
 ## &#128215; Books
 
-1. [Escaping the Build Trap by Melissa Perri](https://amzn.to/3OCL8ad) `Product leadership`
-2. [User Story Mapping by Jeff Patton](https://amzn.to/44PptkO) `User Stories`
-3. [Hooked by Nir Eyal](https://amzn.to/3KlvKN7) `User Behaviour`
-4. [The Lean Startup by Eric Ries](https://amzn.to/3Ohzu3h)
-5. [Zero to One by Peter Thiel](https://amzn.to/47bmG7h)
-6. [Sprint by Jake Knapp](https://amzn.to/3qlz83D) `Discovery`
-7. [Shape Up by Ryan Singer](https://basecamp.com/shapeup) `Free`
-8. [The Design of Everyday Things by Donald Norman](https://amzn.to/3YoubUn) `Design`
-9. [Measure What Matters by John Doerr](https://amzn.to/3DBTkRN) `Goals`
+1. [Escaping the Build Trap](https://amzn.to/3OCL8ad) - Melissa Perri
+2. [User Story Mapping](https://amzn.to/44PptkO) -  Jeff Patton
+3. [Hooked](https://amzn.to/3KlvKN7) - Nir Eyal
+4. [The Lean Startup](https://amzn.to/3Ohzu3h) - Eric Ries
+5. [Zero to One](https://amzn.to/47bmG7h) - Peter Thiel
+6. [Sprint](https://amzn.to/3qlz83D) - Jake Knapp
+7. [Shape Up](https://basecamp.com/shapeup) - Ryan Singer
+8. [The Design of Everyday Things](https://amzn.to/3YoubUn) - Donald Norman
+9. [Measure What Matters](https://amzn.to/3DBTkRN) - John Doerr
 
 <br>
 
