@@ -1,4 +1,4 @@
-# Metrics & KPI `WIP`
+# Metrics & KPI
 > Metrics is a quantifiable measure that allow businesses to define and track the success of a product or a business activity. Metrics are used by stakeholders, marketers, and the product management team to detect problems, set goals, and make informed decisions.
 
 <br>
