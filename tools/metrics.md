@@ -3,7 +3,7 @@
 
 <br>
 
-- The North Star Metric (NSM)
+- North Star Metric (NSM)
 - Deployments in off mode
 - Value return effort
 - Return on investement
@@ -32,6 +32,7 @@
 - Customer satisfaction score
 - Time to market
 - Product adoption
+- Maket Share
 
 <br>
 
