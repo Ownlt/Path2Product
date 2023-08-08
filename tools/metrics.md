@@ -6,12 +6,14 @@
 - North Star Metric (NSM)
 - Deployments in off mode
 - Value return effort
-- Return on investement
+- Return On Investement (ROI)
 - Capital redeployment
 - Cumulative flow
 - Happiness Metric
-- Monthly recurring revenue
 - Defect density
+- Revenue per Employee
+- Product Cost Ratio
+- Usage Index
 
 <br>
 
@@ -19,10 +21,11 @@
 - Daily Active User (DAU)
 - Monthly Active User (MAU)
 - DAU/MAU Ratio
+- Monthly Recurring Revenue (MRR)
 - Session duration
 - Number of sessions per user
 - Number of user actions per session
-- Customer Lifetime value
+- Customer Lifetime Value (CLV)
 - Customer acquisition cost
 - Traffic
 - Bounce rate
