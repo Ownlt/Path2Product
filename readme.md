@@ -33,6 +33,8 @@
 - [Product Management : Understanding the Business](https://www.pluralsight.com/courses/product-management-understanding-business) - Jeff Hurd
 - [Product Management : Strategy and Vision](https://www.pluralsight.com/courses/product-management-strategy-vision) - Jeremy Jarrell
 
+<br>
+
 ## Tools
 - [Metrics & KPI](https://github.com/robotsatan/PM-Repos/blob/main/tools/metrics.md)
 - [Speaker Canvas](https://github.com/robotsatan/product-management-repository/blob/main/tools/Speaker%20Canvas.pdf)
