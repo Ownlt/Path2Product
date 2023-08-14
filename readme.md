@@ -1,4 +1,4 @@
-# My Product Management Journey
+# Product Management Journey
 
 ## About
 
