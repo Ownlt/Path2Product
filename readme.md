@@ -35,8 +35,8 @@
 - [Product Management : Product Discovery]() - In progress
 - [Product Management First Steps]() - Doug Winnie
 - [Technical Product Management]() - Marily Nika
-- [Agile Product Owner Role: Foundations]() - Angela Wick
-- [Agile Product Owner Role: Techniques]() - Angela Wick
+- [Agile Product Owner Role : Foundations]() - Angela Wick
+- [Agile Product Owner Role : Techniques]() - Angela Wick
 - [Learning Design Thinking]() - Randall Elliott
 
 <br>
