@@ -30,7 +30,7 @@
 
 ## Formations
 - [Product Management Fundamentals](https://www.pluralsight.com/courses/product-management-fundamentals) - Matthew Pizzi
-- [Product Management: Understanding the Business](https://www.pluralsight.com/courses/product-management-understanding-business) - Jeff Hurd
+- [Product Management : Understanding the Business](https://www.pluralsight.com/courses/product-management-understanding-business) - Jeff Hurd
 - [Product Management : Strategy and Vision](https://www.pluralsight.com/courses/product-management-strategy-vision) - Jeremy Jarrell
 
 ## Tools
