@@ -28,6 +28,14 @@
 
 <br>
 
+
+## Articles
+- [4 mistakes new product managers make](https://product.hubspot.com/blog/4-mistakes-new-product-managers-make) - Matt Schnitt
+
+
+<br>
+
+
 ## Formations
 - [Product Management Fundamentals](https://www.pluralsight.com/courses/product-management-fundamentals) - Matthew Pizzi
 - [Product Management : Understanding the Business](https://www.pluralsight.com/courses/product-management-understanding-business) - Jeff Hurd
