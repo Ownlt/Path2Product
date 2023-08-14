@@ -33,8 +33,11 @@
 - [Product Management : Understanding the Business](https://www.pluralsight.com/courses/product-management-understanding-business) - Jeff Hurd
 - [Product Management : Strategy and Vision](https://www.pluralsight.com/courses/product-management-strategy-vision) - Jeremy Jarrell
 - [Product Management : Product Discovery]() - In progress
+- [Product Management First Steps]() - Doug Winnie
+- [Technical Product Management]() - Marily Nika
 - [Agile Product Owner Role: Foundations]() - Angela Wick
 - [Agile Product Owner Role: Techniques]() - Angela Wick
+- [Learning Design Thinking]() - Randall Elliott
 
 <br>
 
