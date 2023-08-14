@@ -35,14 +35,14 @@
 
 <br>
 
-## Tools
-- [Metrics & KPI](https://github.com/robotsatan/PM-Repos/blob/main/tools/metrics.md)
-- [Speaker Canvas](https://github.com/robotsatan/product-management-repository/blob/main/tools/Speaker%20Canvas.pdf)
+## Certifications
+- [PSPO I]()
 
 <br>
 
-## Certifications
-- [PSPO I]()
+## Tools
+- [Metrics & KPI](https://github.com/robotsatan/PM-Repos/blob/main/tools/metrics.md)
+- [Speaker Canvas](https://github.com/robotsatan/product-management-repository/blob/main/tools/Speaker%20Canvas.pdf)
 
 <br>
 
