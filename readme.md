@@ -1,4 +1,4 @@
-# Product Management Journey
+# Product Management Journey & Ressources
 
 ## About
 
