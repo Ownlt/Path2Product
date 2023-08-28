@@ -8,15 +8,16 @@
 
 ## &#128215; Books
 
-1. [Escaping the Build Trap](https://amzn.to/3OCL8ad) - Melissa Perri
-2. [User Story Mapping](https://amzn.to/44PptkO) -  Jeff Patton
-3. [Hooked](https://amzn.to/3KlvKN7) - Nir Eyal
-4. [The Lean Startup](https://amzn.to/3Ohzu3h) - Eric Ries
-5. [Zero to One](https://amzn.to/47bmG7h) - Peter Thiel
-6. [Sprint](https://amzn.to/3qlz83D) - Jake Knapp
-7. [Shape Up](https://basecamp.com/shapeup) - Ryan Singer
-8. [The Design of Everyday Things](https://amzn.to/3YoubUn) - Donald Norman
-9. [Measure What Matters](https://amzn.to/3DBTkRN) - John Doerr
+1. [Inspired](https://amzn.to/45HBSaC) - Marty Cagan 
+2. [Escaping the Build Trap](https://amzn.to/3OCL8ad) - Melissa Perri
+3. [User Story Mapping](https://amzn.to/44PptkO) -  Jeff Patton
+4. [Hooked](https://amzn.to/3KlvKN7) - Nir Eyal
+5. [The Lean Startup](https://amzn.to/3Ohzu3h) - Eric Ries
+6. [Zero to One](https://amzn.to/47bmG7h) - Peter Thiel
+7. [Sprint](https://amzn.to/3qlz83D) - Jake Knapp
+8. [Shape Up](https://basecamp.com/shapeup) - Ryan Singer
+9. [The Design of Everyday Things](https://amzn.to/3YoubUn) - Donald Norman
+10. [Measure What Matters](https://amzn.to/3DBTkRN) - John Doerr
 
 <br>
 
