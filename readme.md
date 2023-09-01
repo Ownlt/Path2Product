@@ -24,6 +24,7 @@
 ## Upcoming reading
 1. [Continuous Discovery Habits]() - Teresa Torres
 2. [Strong Product People]() - Petra Wille
+3. [Product Management in Practice]() - Matt LeMay
 
 <br>
 
@@ -35,13 +36,11 @@
 
 <br>
 
-
 ## Articles
 - [4 mistakes new product managers make](https://product.hubspot.com/blog/4-mistakes-new-product-managers-make) - Matt Schnitt
 
 
 <br>
-
 
 ## Formations
 - [Product Management Fundamentals](https://www.pluralsight.com/courses/product-management-fundamentals) - Matthew Pizzi
