@@ -19,6 +19,8 @@
 9. [The Design of Everyday Things](https://amzn.to/3YoubUn) - Donald Norman
 10. [Measure What Matters](https://amzn.to/3DBTkRN) - John Doerr
 
+<br>
+
 ## Upcoming reading
 1. [Continuous Discovery Habits]() - Teresa Torres
 2. [Strong Product People]() - Petra Wille
