@@ -21,6 +21,7 @@
 
 ## Upcoming read
 1. [Continuous Discovery Habits]() - Teresa Torres
+2. [Strong Product People]() - Petra Wille
 
 <br>
 
