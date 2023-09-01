@@ -8,7 +8,7 @@
 
 ## &#128215; Books
 
-1. [Inspired](https://amzn.to/45HBSaC) - Marty Cagan 
+1. [Inspired](https://amzn.to/45HBSaC) - Marty Cagan `In progress`
 2. [Escaping the Build Trap](https://amzn.to/3OCL8ad) - Melissa Perri
 3. [User Story Mapping](https://amzn.to/44PptkO) -  Jeff Patton
 4. [Hooked](https://amzn.to/3KlvKN7) - Nir Eyal
@@ -18,6 +18,9 @@
 8. [Shape Up](https://basecamp.com/shapeup) - Ryan Singer
 9. [The Design of Everyday Things](https://amzn.to/3YoubUn) - Donald Norman
 10. [Measure What Matters](https://amzn.to/3DBTkRN) - John Doerr
+
+## Upcoming read
+1. [Continuous Discovery Habits]() - Teresa Torres
 
 <br>
 
