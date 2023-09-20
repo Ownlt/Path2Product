@@ -61,6 +61,11 @@
 
 <br>
 
+## Softwares
+- [Obsidian](https://obsidian.md/)
+
+<br>
+
 ## Tools
 - [Metrics & KPI](https://github.com/robotsatan/PM-Repos/blob/main/tools/metrics.md)
 - [Speaker Canvas](https://github.com/robotsatan/product-management-repository/blob/main/tools/Speaker%20Canvas.pdf)
