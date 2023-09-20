@@ -73,7 +73,6 @@
 | :---- | :--- | :--- |
 | Obsidian | Note taking | [https://obsidian.md/](https://obsidian.md/) |
 
-
 <br>
 
 ---
