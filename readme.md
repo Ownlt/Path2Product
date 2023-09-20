@@ -71,8 +71,8 @@
 - [Obsidian](https://obsidian.md/)
 
 | Name | Use | URL |
-| --- | --- | --- |
-| Obsidian | Note taking | |
+| ---- | --- | --- |
+| Obsidian | Note taking | N/A |
 
 
 <br>
