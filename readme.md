@@ -68,11 +68,10 @@
 <br>
 
 ## Softwares
-- [Obsidian](https://obsidian.md/)
 
-| Name | Use | URL |
-| ---- | --- | --- |
-| Obsidian | Note taking | N/A |
+| Name | Fonction | URL |
+| :---- | :--- | :--- |
+| Obsidian | Note taking | [https://obsidian.md/](https://obsidian.md/) |
 
 
 <br>
