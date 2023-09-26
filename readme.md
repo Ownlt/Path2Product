@@ -23,8 +23,9 @@
 
 ## Upcoming reading
 1. [Continuous Discovery Habits]() - Teresa Torres
-2. [Strong Product People]() - Petra Wille
-3. [Product Management in Practice]() - Matt LeMay
+2. [Empowered]() - Marty Cagan
+3. [Strong Product People]() - Petra Wille
+4. [Product Management in Practice]() - Matt LeMay
 
 <br>
 
