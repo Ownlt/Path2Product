@@ -31,11 +31,12 @@
 
 ## Videos
 
-- [Escaping the Build Trap by Melissa Perri](https://www.youtube.com/watch?v=DmJXpI7OJuY)
-- [The Root Causes of Product Failure by Marty Cagan](https://www.youtube.com/watch?v=9dccd8lihpQ)
-- [Introduction to Modern Product Discovery by Teresa Torres](https://www.youtube.com/watch?v=l7-5x0ra2tc)
+- [Escaping the Build Trap](https://www.youtube.com/watch?v=DmJXpI7OJuY) - Melissa Perri
+- [The Root Causes of Product Failure](https://www.youtube.com/watch?v=9dccd8lihpQ) - Marty Cagan
+- [Introduction to Modern Product Discovery](https://www.youtube.com/watch?v=l7-5x0ra2tc) - Teresa Torres
 - [The nature of product](https://www.youtube.com/watch?v=h-KVGHoQ_98)
 - [Steve Jobs : The Lost Interview](https://www.youtube.com/watch?v=TlIbRDQvAXE)
+- [Steal Like An Artist](https://www.youtube.com/watch?v=oww7oB9rjgw) - Austin Kleon
 
 <br>
 
