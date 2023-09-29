@@ -8,7 +8,7 @@
 
 ## &#128215; Books
 
-1. [Inspired](https://amzn.to/45HBSaC) - Marty Cagan `In progress`
+1. [Inspired](https://amzn.to/45HBSaC) - Marty Cagan
 2. [Escaping the Build Trap](https://amzn.to/3OCL8ad) - Melissa Perri
 3. [User Story Mapping](https://amzn.to/44PptkO) -  Jeff Patton
 4. [Hooked](https://amzn.to/3KlvKN7) - Nir Eyal
