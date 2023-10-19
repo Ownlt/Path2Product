@@ -40,6 +40,7 @@
 
 ## Articles
 - [4 mistakes new product managers make](https://product.hubspot.com/blog/4-mistakes-new-product-managers-make) - Matt Schnitt
+- [Product manager vs. product owner](https://www.launchnotes.com/blog/product-manager-vs-product-owner)
 
 
 <br>
@@ -65,6 +66,9 @@
 ## Tools
 - [Metrics & KPI](https://github.com/robotsatan/PM-Repos/blob/main/tools/metrics.md)
 - [Speaker Canvas](https://github.com/robotsatan/product-management-repository/blob/main/tools/Speaker%20Canvas.pdf)
+- [Product Kata](https://melissaperri.com/blog/2015/07/22/the-product-kata)
+- [OST - Opportunity Solution Trees](https://www.producttalk.org/opportunity-solution-tree/)
+- [Interview snapshot guide](https://posthog.com/blog/interview-snapshot-guide)
 
 <br>
 
