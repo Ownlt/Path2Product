@@ -16,14 +16,14 @@
 8. [Shape Up](https://basecamp.com/shapeup) - Ryan Singer
 9. [The Design of Everyday Things](https://amzn.to/3YoubUn) - Donald Norman
 10. [Measure What Matters](https://amzn.to/3DBTkRN) - John Doerr
+11. [Continuous Discovery Habits](https://amzn.to/3tF8G6o) - Teresa Torres
 
 <br>
 
 ## Upcoming reading
-1. [Continuous Discovery Habits]() - Teresa Torres
-2. [Empowered]() - Marty Cagan
-3. [Strong Product People]() - Petra Wille
-4. [Product Management in Practice]() - Matt LeMay
+1. [Empowered]() - Marty Cagan
+2. [Strong Product People]() - Petra Wille
+3. [Product Management in Practice]() - Matt LeMay
 
 <br>
 
