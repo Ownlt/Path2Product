@@ -17,7 +17,8 @@
 9. [The Design of Everyday Things](https://amzn.to/3YoubUn) - Donald Norman
 10. [Measure What Matters](https://amzn.to/3DBTkRN) - John Doerr
 11. [Continuous Discovery Habits](https://amzn.to/3tF8G6o) - Teresa Torres
-12. [Team Topologies](https://www.amazon.ca/Team-Topologies-Organizing-Business-Technology/dp/1942788819) - by Matthew Skelton & Manuel Pais `WIP`
+12. [Team Topologies](https://www.amazon.ca/Team-Topologies-Organizing-Business-Technology/dp/1942788819) - by Matthew Skelton & Manuel Pais
+13. [The Phoenix Project](https://www.amazon.ca/Phoenix-Project-DevOps-Helping-Business/dp/1942788290) - Gene Kim, Kevin Behr & George Spafford
 
 <br>
 
