@@ -64,7 +64,7 @@
 <br>
 
 ## Certifications
-- [Professional Scrum Product Owner I](https://www.scrum.org/assessments/professional-scrum-product-owner-i-certification)
+- [Professional Scrum Product Owner I](https://www.scrum.org/assessments/professional-scrum-product-owner-i-certification) `No value`
 
 <br>
 
