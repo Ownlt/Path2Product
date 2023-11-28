@@ -6,19 +6,19 @@
 
 ## &#128215; Books
 
-1. [Inspired](https://amzn.to/45HBSaC) - Marty Cagan
-2. [Escaping the Build Trap](https://amzn.to/3OCL8ad) - Melissa Perri
-3. [User Story Mapping](https://amzn.to/44PptkO) -  Jeff Patton
-4. [Hooked](https://amzn.to/3KlvKN7) - Nir Eyal
-5. [The Lean Startup](https://amzn.to/3Ohzu3h) - Eric Ries
-6. [Zero to One](https://amzn.to/47bmG7h) - Peter Thiel
-7. [Sprint](https://amzn.to/3qlz83D) - Jake Knapp
-8. [Shape Up](https://basecamp.com/shapeup) - Ryan Singer
-9. [The Design of Everyday Things](https://amzn.to/3YoubUn) - Donald Norman
-10. [Measure What Matters](https://amzn.to/3DBTkRN) - John Doerr
-11. [Continuous Discovery Habits](https://amzn.to/3tF8G6o) - Teresa Torres
-12. [Team Topologies](https://www.amazon.ca/Team-Topologies-Organizing-Business-Technology/dp/1942788819) - by Matthew Skelton & Manuel Pais
-13. [The Phoenix Project](https://www.amazon.ca/Phoenix-Project-DevOps-Helping-Business/dp/1942788290) - Gene Kim, Kevin Behr & George Spafford
+- [Inspired](https://amzn.to/45HBSaC) - Marty Cagan `*`
+- [Escaping the Build Trap](https://amzn.to/3OCL8ad) - Melissa Perri `*`
+- [Continuous Discovery Habits](https://amzn.to/3tF8G6o) - Teresa Torres `*`
+- [User Story Mapping](https://amzn.to/44PptkO) -  Jeff Patton
+- [Hooked](https://amzn.to/3KlvKN7) - Nir Eyal
+- [The Lean Startup](https://amzn.to/3Ohzu3h) - Eric Ries
+- [Zero to One](https://amzn.to/47bmG7h) - Peter Thiel
+- [Sprint](https://amzn.to/3qlz83D) - Jake Knapp
+- [Shape Up](https://basecamp.com/shapeup) - Ryan Singer
+- [The Design of Everyday Things](https://amzn.to/3YoubUn) - Donald Norman
+- [Measure What Matters](https://amzn.to/3DBTkRN) - John Doerr
+- [Team Topologies](https://www.amazon.ca/Team-Topologies-Organizing-Business-Technology/dp/1942788819) - by Matthew Skelton & Manuel Pais
+- [The Phoenix Project](https://www.amazon.ca/Phoenix-Project-DevOps-Helping-Business/dp/1942788290) - Gene Kim, Kevin Behr & George Spafford
 
 <br>
 
@@ -43,6 +43,9 @@
 ## Articles
 - [4 mistakes new product managers make](https://product.hubspot.com/blog/4-mistakes-new-product-managers-make) - Matt Schnitt
 - [Product manager vs. product owner](https://www.launchnotes.com/blog/product-manager-vs-product-owner)
+- [The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html) - Marc Andreessen
+- [The Time Value of Shipping](https://blackboxofpm.com/the-time-value-of-shipping-6deaf8d7d565) - Brandon Chu
+- [Why do they keep hiring PO](https://www.digitalproductjobs.com/why-do-they-keep-hiring-product-owners-and-not-product-managers-and-why-you-should-avoid-companies-that-do/#part-1projectdelivery-vs-product-companies)
 
 
 <br>
@@ -71,6 +74,20 @@
 - [Product Kata](https://melissaperri.com/blog/2015/07/22/the-product-kata)
 - [OST - Opportunity Solution Trees](https://www.producttalk.org/opportunity-solution-tree/)
 - [Interview snapshot guide](https://posthog.com/blog/interview-snapshot-guide)
+- [North Star Framework](https://amplitude.com/blog/product-north-star-metric?ref=https://product-frameworks.com)
+- [AARRR Pirate Metrics](https://www.productplan.com/glossary/aarrr-framework/)
+- [HEART](https://www.productplan.com/glossary/heart-framework/)
+
+
+<br>
+
+## Framework
+
+- [OKRs]()
+- [Kanban]() `Optimal`
+- [Manifesto for Agile Software Development](https://agilemanifesto.org/)
+- [Scrum](https://scrumguides.org/index.html) `Avoid`
+- [SaFe]() `Avoid`
 
 <br>
 
