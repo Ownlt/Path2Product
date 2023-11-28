@@ -20,6 +20,10 @@
 - [Team Topologies](https://www.amazon.ca/Team-Topologies-Organizing-Business-Technology/dp/1942788819) - by Matthew Skelton & Manuel Pais
 - [The Phoenix Project](https://www.amazon.ca/Phoenix-Project-DevOps-Helping-Business/dp/1942788290) - Gene Kim, Kevin Behr & George Spafford
 
+**Others**
+- Entreprise Architecture as Strategy - Jeanne Ross, Peter Weill & David Robertson
+- Agile Project Management with Kanban - Eric Brechner
+
 <br>
 
 ## Upcoming reading
