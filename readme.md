@@ -41,6 +41,7 @@
 - [The nature of product](https://www.youtube.com/watch?v=h-KVGHoQ_98)
 - [Steve Jobs : The Lost Interview](https://www.youtube.com/watch?v=TlIbRDQvAXE)
 - [Steal Like An Artist](https://www.youtube.com/watch?v=oww7oB9rjgw) - Austin Kleon
+- [Product Map Framework](https://www.youtube.com/watch?v=leGK_dUeUw4) - Tamer El-Hawari
 
 <br>
 
