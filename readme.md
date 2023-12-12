@@ -19,7 +19,7 @@
 - [Measure What Matters](https://amzn.to/3DBTkRN) - John Doerr
 - [Team Topologies](https://www.amazon.ca/Team-Topologies-Organizing-Business-Technology/dp/1942788819) - by Matthew Skelton & Manuel Pais
 - [The Phoenix Project](https://www.amazon.ca/Phoenix-Project-DevOps-Helping-Business/dp/1942788290) - Gene Kim, Kevin Behr & George Spafford
-- Good Strategy Bad Strategy: The Difference and Why It Matters - Richard Rumelt
+- Good Strategy, Bad Strategy: The Difference and Why It Matters - Richard Rumelt
 
 **Others**
 - Entreprise Architecture as Strategy - Jeanne Ross, Peter Weill & David Robertson
