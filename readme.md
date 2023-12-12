@@ -43,6 +43,7 @@
 - [Steve Jobs : The Lost Interview](https://www.youtube.com/watch?v=TlIbRDQvAXE)
 - [Steal Like An Artist](https://www.youtube.com/watch?v=oww7oB9rjgw) - Austin Kleon
 - [Product Map Framework](https://www.youtube.com/watch?v=leGK_dUeUw4) - Tamer El-Hawari
+- [Atomic Product Strategy](https://vimeo.com/354744389) - Rob Hayes
 
 <br>
 
