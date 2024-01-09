@@ -105,3 +105,7 @@
 
 
 <br>
+
+## To Read list
+- [Stop Obsessing Over Development Velocity, Focus on This Instead](https://itamargilad.com/velocity-vs-impact/) - Itamar Gilad
+- [Planning With Outcome Roadmaps](https://itamargilad.com/outcome-roadmaps/) - Itamar Gilad
