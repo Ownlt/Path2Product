@@ -72,11 +72,6 @@
 
 <br>
 
-## Certifications
-- [Professional Scrum Product Owner I](https://www.scrum.org/assessments/professional-scrum-product-owner-i-certification)
-
-<br>
-
 ## Tools
 - [Metrics & KPI](https://github.com/robotsatan/PM-Repos/blob/main/tools/metrics.md)
 - [Speaker Canvas](https://github.com/robotsatan/product-management-repository/blob/main/tools/Speaker%20Canvas.pdf)
