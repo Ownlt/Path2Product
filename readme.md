@@ -44,6 +44,7 @@
 - [Steal Like An Artist](https://www.youtube.com/watch?v=oww7oB9rjgw) - Austin Kleon
 - [Product Map Framework](https://www.youtube.com/watch?v=leGK_dUeUw4) - Tamer El-Hawari
 - [Atomic Product Strategy](https://vimeo.com/354744389) - Rob Hayes
+- [How to Create Your Product Strategy](https://www.youtube.com/watch?v=11b2JdeHoGM) - Dan Olsen
 
 <br>
 
