@@ -23,7 +23,7 @@
 - Good Strategy, Bad Strategy: The Difference and Why It Matters - Richard Rumelt `WIP`
 
 **Others**
-- Entreprise Architecture as Strategy - Jeanne Ross, Peter Weill & David Robertson
+- Entreprise Architecture as Strategy - Jeanne Ross, Peter Weill & David Robertson `*`
 - Agile Project Management with Kanban - Eric Brechner
 
 <br>
