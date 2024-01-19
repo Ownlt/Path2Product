@@ -34,6 +34,7 @@
 3. [Product Management in Practice]() - Matt LeMay
 4. [Lean Product Playbook]() - Dan Olsen
 5. [Radical Focus]() - Christina R Wodtke
+6. Designing for Behavior Change: Applying Psychology and Behavioral Economic
 
 <br>
 
