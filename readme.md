@@ -20,7 +20,7 @@
 - [Team Topologies](https://www.amazon.ca/Team-Topologies-Organizing-Business-Technology/dp/1942788819) - by Matthew Skelton & Manuel Pais
 - [The Phoenix Project](https://www.amazon.ca/Phoenix-Project-DevOps-Helping-Business/dp/1942788290) - Gene Kim, Kevin Behr & George Spafford
 - [Rework: Change the Way You Work Forever](https://basecamp.com/books/rework) - Jason Fried & David Heinemeier Hansson
-- Good Strategy, Bad Strategy: The Difference and Why It Matters - Richard Rumelt `WIP`
+- [Good Strategy, Bad Strategy: The Difference and Why It Matters](https://www.amazon.ca/Good-Strategy-Bad-Difference-Matters/dp/0307886239) - Richard Rumelt
 
 **Others**
 - Entreprise Architecture as Strategy - Jeanne Ross, Peter Weill & David Robertson `*`
