@@ -92,6 +92,7 @@
 - [North Star Framework](https://amplitude.com/blog/product-north-star-metric?ref=https://product-frameworks.com)
 - [AARRR Pirate Metrics](https://www.productplan.com/glossary/aarrr-framework/)
 - [HEART](https://www.productplan.com/glossary/heart-framework/)
+- [Design Thinking Model](https://github.com/ProdArtisan/Product-Management-Road/blob/main/tools/Design%20Thinking%20Model.md)
 
 
 <br>
