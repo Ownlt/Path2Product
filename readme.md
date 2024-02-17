@@ -42,6 +42,7 @@
 7. Designing for Behavior Change: Applying Psychology and Behavioral Economic
 8. Sketching User Experiences: The Workbook - Saul Greenberg, Sheelagh Carpendale, Nicolai Marquardt & Bill Buxton
 9. Laws of UX : Using Psychology to Design Better Products & Services - Jon Yablonski
+10. Designing Interfaces - Jenifer Tidwell, Charles Brewer & Aynne Valencia
 
 <br>
 
