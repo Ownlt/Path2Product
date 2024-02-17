@@ -6,6 +6,8 @@
 
 ## &#128215; Books
 
+### Product
+
 - [Inspired](https://amzn.to/45HBSaC) - Marty Cagan `*`
 - [Escaping the Build Trap](https://amzn.to/3OCL8ad) - Melissa Perri `*`
 - [Continuous Discovery Habits](https://amzn.to/3tF8G6o) - Teresa Torres `*`
@@ -15,14 +17,17 @@
 - [Zero to One](https://amzn.to/47bmG7h) - Peter Thiel
 - [Sprint](https://amzn.to/3qlz83D) - Jake Knapp
 - [Shape Up](https://basecamp.com/shapeup) - Ryan Singer
-- [The Design of Everyday Things](https://amzn.to/3YoubUn) - Donald Norman
 - [Measure What Matters](https://amzn.to/3DBTkRN) - John Doerr
 - [Team Topologies](https://www.amazon.ca/Team-Topologies-Organizing-Business-Technology/dp/1942788819) - by Matthew Skelton & Manuel Pais
 - [The Phoenix Project](https://www.amazon.ca/Phoenix-Project-DevOps-Helping-Business/dp/1942788290) - Gene Kim, Kevin Behr & George Spafford
 - [Rework: Change the Way You Work Forever](https://basecamp.com/books/rework) - Jason Fried & David Heinemeier Hansson
 - [Good Strategy, Bad Strategy: The Difference and Why It Matters](https://www.amazon.ca/Good-Strategy-Bad-Difference-Matters/dp/0307886239) - Richard Rumelt
 
-**Others**
+### UX/UI & Design
+- [Introduction to design thinking for UX beginners]() - Uijun Park
+- [The Design of Everyday Things](https://amzn.to/3YoubUn) - Donald Norman
+
+### Others
 - Entreprise Architecture as Strategy - Jeanne Ross, Peter Weill & David Robertson `*`
 - Agile Project Management with Kanban - Eric Brechner
 
