@@ -114,6 +114,7 @@
 | Obsidian | Note taking | [https://obsidian.md/](https://obsidian.md/) |
 | Aha! | Roadmap | [https://www.aha.io/](https://www.aha.io/) |
 | Excalidraw | Sketch diagrams | [https://excalidraw.com/](https://excalidraw.com/) |
+| Penpot | UX/UI Design | [https://penpot.app/](https://penpot.app/) |
 
 
 <br>
