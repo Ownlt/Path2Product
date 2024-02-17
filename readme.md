@@ -6,8 +6,6 @@
 
 ## &#128215; Books
 
-### Product
-
 - [Inspired](https://amzn.to/45HBSaC) - Marty Cagan `*`
 - [Escaping the Build Trap](https://amzn.to/3OCL8ad) - Melissa Perri `*`
 - [Continuous Discovery Habits](https://amzn.to/3tF8G6o) - Teresa Torres `*`
