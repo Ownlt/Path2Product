@@ -24,6 +24,7 @@
 - [Good Strategy, Bad Strategy: The Difference and Why It Matters](https://www.amazon.ca/Good-Strategy-Bad-Difference-Matters/dp/0307886239) - Richard Rumelt
 
 ### UX/UI & Design
+
 - [Introduction to design thinking for UX beginners](https://www.amazon.ca/Introduction-Design-Thinking-Beginners-Experience/dp/B0BYM4LZ6Y) - Uijun Park
 - [The Design of Everyday Things](https://amzn.to/3YoubUn) - Donald Norman
 
