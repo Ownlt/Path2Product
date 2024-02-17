@@ -29,7 +29,7 @@
 - [The Design of Everyday Things](https://amzn.to/3YoubUn) - Donald Norman
 
 ### Others
-- Entreprise Architecture as Strategy - Jeanne Ross, Peter Weill & David Robertson `*`
+- [Entreprise Architecture as Strategy](https://www.amazon.ca/Enterprise-Architecture-Strategy-Foundation-Execution/dp/1591398398/ref=sr_1_1?crid=3D9P79G85WO0P&keywords=enterprise+architecture+as+strategy&qid=1708191026&s=books&sprefix=entreprise+architecture+as+strategy+%2Cstripbooks%2C59&sr=1-1) - Jeanne Ross, Peter Weill & David Robertson `*`
 - Agile Project Management with Kanban - Eric Brechner
 
 <br>
@@ -41,6 +41,7 @@
 4. [Lean Product Playbook]() - Dan Olsen
 5. [Radical Focus]() - Christina R Wodtke
 6. Designing for Behavior Change: Applying Psychology and Behavioral Economic
+7. Sketching User Experiences: The Workbook - Saul Greenberg, Sheelagh Carpendale, Nicolai Marquardt & Bill Buxton
 
 <br>
 
