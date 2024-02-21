@@ -1,3 +1,3 @@
+https://medium.com/@kazimfarhan/mental-model-for-product-management-ooda-loop-how-to-use-it-98c8665f0337
 
-
-![x](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*O-TWQm5CB-NB6flP.png))
+![](https://www.researchgate.net/publication/266557385/figure/fig1/AS:702361555181568@1544467452201/John-Boyds-OODA-Loop-Diagram-8.png)
