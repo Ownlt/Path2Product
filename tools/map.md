@@ -1,4 +1,5 @@
 # Model conceptuel de la gestion de produit
+https://productmap.notion.site/productmap/The-Product-Map-bf03f7b224c64d5080e889b86452d114
 
 ## Observations
 - Marché
