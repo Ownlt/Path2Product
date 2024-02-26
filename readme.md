@@ -20,6 +20,7 @@
 - [The Phoenix Project](https://www.amazon.ca/Phoenix-Project-DevOps-Helping-Business/dp/1942788290) - Gene Kim, Kevin Behr & George Spafford
 - [Rework: Change the Way You Work Forever](https://basecamp.com/books/rework) - Jason Fried & David Heinemeier Hansson
 - [Good Strategy, Bad Strategy: The Difference and Why It Matters](https://www.amazon.ca/Good-Strategy-Bad-Difference-Matters/dp/0307886239) - Richard Rumelt
+- [Lean Product Playbook]() - Dan Olsen `WIP`
 
 ### UX/UI & Design
 - [The Design of Everyday Things](https://amzn.to/3YoubUn) - Donald Norman `*`
@@ -33,16 +34,15 @@
 <br>
 
 ## Upcoming reading
-1. [Empowered]() - Marty Cagan
-2. [Strong Product People]() - Petra Wille
-3. [Product Management in Practice]() - Matt LeMay
-4. [Lean Product Playbook]() - Dan Olsen
-5. [Radical Focus]() - Christina R Wodtke
-6. Refactoring UI - Adam Wathan & Steve Schoger
-7. Designing for Behavior Change: Applying Psychology and Behavioral Economic
-8. Sketching User Experiences: The Workbook - Saul Greenberg, Sheelagh Carpendale, Nicolai Marquardt & Bill Buxton
-9. Laws of UX : Using Psychology to Design Better Products & Services - Jon Yablonski
-10. Designing Interfaces - Jenifer Tidwell, Charles Brewer & Aynne Valencia
+- [Empowered]() - Marty Cagan
+- [Strong Product People]() - Petra Wille
+- [Product Management in Practice]() - Matt LeMay
+- [Radical Focus]() - Christina R Wodtke
+- Refactoring UI - Adam Wathan & Steve Schoger
+- Designing for Behavior Change: Applying Psychology and Behavioral Economic
+- Sketching User Experiences: The Workbook - Saul Greenberg, Sheelagh Carpendale, Nicolai Marquardt & Bill Buxton
+- Laws of UX : Using Psychology to Design Better Products & Services - Jon Yablonski
+- Designing Interfaces - Jenifer Tidwell, Charles Brewer & Aynne Valencia
 
 <br>
 
