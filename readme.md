@@ -104,8 +104,8 @@
 - [OKRs]()
 - [Kanban]() `Optimal`
 - [Manifesto for Agile Software Development](https://agilemanifesto.org/)
-- [Scrum](https://scrumguides.org/index.html) `Avoid`
-- [SaFe]() `Avoid`
+- [Scrum](https://scrumguides.org/index.html) 
+- [SaFe]() 
 
 <br>
 
