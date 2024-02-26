@@ -22,9 +22,9 @@
 - [Good Strategy, Bad Strategy: The Difference and Why It Matters](https://www.amazon.ca/Good-Strategy-Bad-Difference-Matters/dp/0307886239) - Richard Rumelt
 
 ### UX/UI & Design
-
+- [The Design of Everyday Things](https://amzn.to/3YoubUn) - Donald Norman `*`
+- [Don't Make Me Think - Revisited](https://www.amazon.ca/Dont-Make-Think-Revisited-Usability/dp/0321965515) - Steve Krug `*`
 - [Introduction to design thinking for UX beginners](https://www.amazon.ca/Introduction-Design-Thinking-Beginners-Experience/dp/B0BYM4LZ6Y) - Uijun Park
-- [The Design of Everyday Things](https://amzn.to/3YoubUn) - Donald Norman
 
 ### Others
 - [Entreprise Architecture as Strategy](https://www.amazon.ca/Enterprise-Architecture-Strategy-Foundation-Execution/dp/1591398398/ref=sr_1_1?crid=3D9P79G85WO0P&keywords=enterprise+architecture+as+strategy&qid=1708191026&s=books&sprefix=entreprise+architecture+as+strategy+%2Cstripbooks%2C59&sr=1-1) - Jeanne Ross, Peter Weill & David Robertson `*`
