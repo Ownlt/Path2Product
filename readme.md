@@ -1,6 +1,7 @@
 # Product Management Journey & Ressources
 
 > Ressources for product manager and my journey in the product management univers
+> 
 > “Its the not the Destination, It's the journey.” ― Ralph Waldo Emerson
 
 <br>
