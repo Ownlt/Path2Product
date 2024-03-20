@@ -97,6 +97,7 @@
 - [Design Thinking Model](https://github.com/ProdArtisan/Product-Management-Road/blob/main/tools/Design%20Thinking%20Model.md)
 - [The Product Map](https://github.com/ProdArtisan/Product-Management-Road/blob/main/tools/map.md)
 - [Better thinking](https://untools.co/)
+- [Laws of UX](https://lawsofux.com/)
 
 
 <br>
