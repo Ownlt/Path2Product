@@ -9,6 +9,7 @@
 ## &#128215; Books
 
 - [Inspired](https://amzn.to/45HBSaC) - Marty Cagan `*`
+- Empowered - Marty Cagan & Chris Jones `WIP`
 - [Escaping the Build Trap](https://amzn.to/3OCL8ad) - Melissa Perri `*`
 - [Continuous Discovery Habits](https://amzn.to/3tF8G6o) - Teresa Torres `*`
 - [User Story Mapping](https://amzn.to/44PptkO) -  Jeff Patton
@@ -22,7 +23,7 @@
 - [The Phoenix Project](https://www.amazon.ca/Phoenix-Project-DevOps-Helping-Business/dp/1942788290) - Gene Kim, Kevin Behr & George Spafford
 - [Rework: Change the Way You Work Forever](https://basecamp.com/books/rework) - Jason Fried & David Heinemeier Hansson
 - [Good Strategy, Bad Strategy: The Difference and Why It Matters](https://www.amazon.ca/Good-Strategy-Bad-Difference-Matters/dp/0307886239) - Richard Rumelt
-- [Lean Product Playbook]() - Dan Olsen `WIP`
+- [Lean Product Playbook]() - Dan Olsen `*`
 
 ### UX/UI & Design
 - [The Design of Everyday Things](https://amzn.to/3YoubUn) - Donald Norman `*`
@@ -36,7 +37,6 @@
 <br>
 
 ## Upcoming reading
-- [Empowered]() - Marty Cagan
 - [Strong Product People]() - Petra Wille
 - [Product Management in Practice]() - Matt LeMay
 - [Radical Focus]() - Christina R Wodtke
@@ -45,6 +45,7 @@
 - Sketching User Experiences: The Workbook - Saul Greenberg, Sheelagh Carpendale, Nicolai Marquardt & Bill Buxton
 - Laws of UX : Using Psychology to Design Better Products & Services - Jon Yablonski
 - Designing Interfaces - Jenifer Tidwell, Charles Brewer & Aynne Valencia
+- It Doesn't Have to Be Crazy at Work -  Jason Fried & David Heinemeier Hansson
 
 <br>
 
