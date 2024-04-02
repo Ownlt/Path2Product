@@ -37,9 +37,9 @@
 <br>
 
 ## Upcoming reading
-- [Strong Product People]() - Petra Wille
-- [Product Management in Practice]() - Matt LeMay
-- [Radical Focus]() - Christina R Wodtke
+- Strong Product People - Petra Wille
+- Product Management in Practice - Matt LeMay
+- Radical Focus - Christina R Wodtke
 - Refactoring UI - Adam Wathan & Steve Schoger
 - Designing for Behavior Change: Applying Psychology and Behavioral Economic
 - Sketching User Experiences: The Workbook - Saul Greenberg, Sheelagh Carpendale, Nicolai Marquardt & Bill Buxton
