@@ -8,30 +8,30 @@
 
 ## &#128215; Books
 
-- [Inspired](https://amzn.to/45HBSaC) - Marty Cagan `*`
+- Inspired - Marty Cagan `*`
 - Empowered - Marty Cagan & Chris Jones `WIP`
-- [Escaping the Build Trap](https://amzn.to/3OCL8ad) - Melissa Perri `*`
-- [Continuous Discovery Habits](https://amzn.to/3tF8G6o) - Teresa Torres `*`
-- [User Story Mapping](https://amzn.to/44PptkO) -  Jeff Patton
-- [Hooked](https://amzn.to/3KlvKN7) - Nir Eyal
-- [The Lean Startup](https://amzn.to/3Ohzu3h) - Eric Ries
-- [Zero to One](https://amzn.to/47bmG7h) - Peter Thiel
-- [Sprint](https://amzn.to/3qlz83D) - Jake Knapp
-- [Shape Up](https://basecamp.com/shapeup) - Ryan Singer
-- [Measure What Matters](https://amzn.to/3DBTkRN) - John Doerr
-- [Team Topologies](https://www.amazon.ca/Team-Topologies-Organizing-Business-Technology/dp/1942788819) - by Matthew Skelton & Manuel Pais
-- [The Phoenix Project](https://www.amazon.ca/Phoenix-Project-DevOps-Helping-Business/dp/1942788290) - Gene Kim, Kevin Behr & George Spafford
-- [Rework : Change the Way You Work Forever](https://basecamp.com/books/rework) - Jason Fried & David Heinemeier Hansson
-- [Good Strategy, Bad Strategy: The Difference and Why It Matters](https://www.amazon.ca/Good-Strategy-Bad-Difference-Matters/dp/0307886239) - Richard Rumelt
-- [Lean Product Playbook]() - Dan Olsen `*`
+- Escaping the Build Trap - Melissa Perri `*`
+- Continuous Discovery Habits - Teresa Torres `*`
+- User Story Mapping -  Jeff Patton
+- Hooked- Nir Eyal
+- The Lean Startup - Eric Ries
+- Zero to One - Peter Thiel
+- Sprint - Jake Knapp
+- Shape Up - Ryan Singer
+- Measure What Matters - John Doerr
+- Team Topologies - by Matthew Skelton & Manuel Pais
+- The Phoenix Project - Gene Kim, Kevin Behr & George Spafford
+- Rework : Change the Way You Work Forever - Jason Fried & David Heinemeier Hansson
+- Good Strategy, Bad Strategy: The Difference and Why It Matters - Richard Rumelt
+- Lean Product Playbook - Dan Olsen `*`
 
 ### UX/UI & Design
-- [The Design of Everyday Things](https://amzn.to/3YoubUn) - Donald Norman `*`
-- [Don't Make Me Think - Revisited](https://www.amazon.ca/Dont-Make-Think-Revisited-Usability/dp/0321965515) - Steve Krug `*`
-- [Introduction to design thinking for UX beginners](https://www.amazon.ca/Introduction-Design-Thinking-Beginners-Experience/dp/B0BYM4LZ6Y) - Uijun Park
+- The Design of Everyday Things - Donald Norman `*`
+- Don't Make Me Think - Revisited - Steve Krug `*`
+- Introduction to design thinking for UX beginners - Uijun Park
 
 ### Others
-- [Entreprise Architecture as Strategy](https://www.amazon.ca/Enterprise-Architecture-Strategy-Foundation-Execution/dp/1591398398/ref=sr_1_1?crid=3D9P79G85WO0P&keywords=enterprise+architecture+as+strategy&qid=1708191026&s=books&sprefix=entreprise+architecture+as+strategy+%2Cstripbooks%2C59&sr=1-1) - Jeanne Ross, Peter Weill & David Robertson `*`
+- Entreprise Architecture as Strategy - Jeanne Ross, Peter Weill & David Robertson `*`
 - Agile Project Management with Kanban - Eric Brechner
 
 <br>
