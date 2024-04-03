@@ -1,4 +1,7 @@
-# Product Management Journey & Ressources
+# Path2Product
+---
+
+## Product Management Journey & Ressources
 
 > Ressources for product manager and my journey in the product management univers
 > 
