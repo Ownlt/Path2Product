@@ -85,7 +85,8 @@
 - [Agile Product Owner Role : Foundations]() - Angela Wick
 - [Agile Product Owner Role : Techniques]() - Angela Wick
 - [Learning Design Thinking]() - Randall Elliott
-- [Product School : Product Strategy Micro-Certification (PSC)](https://productschool.teachable.com/p/productstrategy) - Michelle Parsons `WIP`
+- [Product School : Product Strategy Micro-Certification (PSC)](https://productschool.teachable.com/p/productstrategy) - Michelle Parsons
+- https://productschool.com/resources/micro-certifications
 
 
 <br>
