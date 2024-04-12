@@ -15,7 +15,7 @@
 - Escaping the Build Trap - Melissa Perri `*`
 - Continuous Discovery Habits - Teresa Torres `*`
 - User Story Mapping -  Jeff Patton
-- Hooked- Nir Eyal
+- Hooked- Nir Eyal `*`
 - The Lean Startup - Eric Ries
 - Zero to One - Peter Thiel
 - Sprint - Jake Knapp
