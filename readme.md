@@ -8,12 +8,12 @@
 
 **Legende**
 - `*` Most-Read Books
-- `WIP` Work in process or Read in process
+- `RIP` Read In Process
 
 ## &#128215; Books
 
 - Inspired - Marty Cagan `*`
-- Empowered - Marty Cagan & Chris Jones `WIP`
+- Empowered - Marty Cagan & Chris Jones `RIP`
 - Escaping the Build Trap - Melissa Perri `*`
 - Continuous Discovery Habits - Teresa Torres `*`
 - User Story Mapping -  Jeff Patton
