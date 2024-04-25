@@ -77,7 +77,6 @@
 - [Product School : Product Strategy Micro-Certification (PSC)](https://productschool.teachable.com/p/productstrategy) - Michelle Parsons
 - https://productschool.com/resources/micro-certifications
 
-
 <br>
 
 ## Tools
@@ -93,7 +92,7 @@
 - [The Product Map](https://github.com/ProdArtisan/Product-Management-Road/blob/main/tools/map.md)
 - [Better thinking](https://untools.co/)
 - [Laws of UX](https://lawsofux.com/)
-
+- [DORA](https://dora.dev/)
 
 <br>
 
@@ -115,7 +114,6 @@
 | Aha! | Roadmap | [https://www.aha.io/](https://www.aha.io/) |
 | Excalidraw | Sketch diagrams | [https://excalidraw.com/](https://excalidraw.com/) |
 | Penpot | UX/UI Design | [https://penpot.app/](https://penpot.app/) |
-
 
 <br>
 
