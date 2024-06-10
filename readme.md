@@ -13,7 +13,7 @@
 ## &#128215; Books
 
 - Inspired - Marty Cagan `*`
-- Empowered - Marty Cagan & Chris Jones `RIP`
+- Empowered - Marty Cagan & Chris Jones 
 - Escaping the Build Trap - Melissa Perri `*`
 - Continuous Discovery Habits - Teresa Torres `*`
 - User Story Mapping -  Jeff Patton
@@ -28,6 +28,7 @@
 - Rework : Change the Way You Work Forever - Jason Fried & David Heinemeier Hansson
 - Good Strategy, Bad Strategy: The Difference and Why It Matters - Richard Rumelt
 - Lean Product Playbook - Dan Olsen `*`
+- Product Operations - Melissa Perri & Denise Tilles `RIP`  
 
 ### UX/UI & Design
 - The Design of Everyday Things - Donald Norman `*`
