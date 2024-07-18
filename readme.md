@@ -78,6 +78,7 @@
 - [Learning Design Thinking]() - Randall Elliott
 - [Product School : Product Strategy Micro-Certification (PSC)](https://productschool.teachable.com/p/productstrategy) - Michelle Parsons
 - https://productschool.com/resources/micro-certifications
+- [Coursera - Google UX Design Professional Certificate](https://www.coursera.org/)
 
 <br>
 
@@ -115,6 +116,7 @@
 | Obsidian | Note taking | [https://obsidian.md/](https://obsidian.md/) |
 | Aha! | Roadmap | [https://www.aha.io/](https://www.aha.io/) |
 | Jira | Backlog management | [https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira) |
+| Linear | Tool for planning and building products | [https://linear.app](https://linear.app/) |
 | Excalidraw | Sketch diagrams | [https://excalidraw.com/](https://excalidraw.com/) |
 | Penpot | UX/UI Design | [https://penpot.app/](https://penpot.app/) |
 
