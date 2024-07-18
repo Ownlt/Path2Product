@@ -28,7 +28,8 @@
 - Rework : Change the Way You Work Forever - Jason Fried & David Heinemeier Hansson
 - Good Strategy, Bad Strategy: The Difference and Why It Matters - Richard Rumelt
 - Lean Product Playbook - Dan Olsen `*`
-- Product Operations - Melissa Perri & Denise Tilles `RIP`  
+- Product Operations - Melissa Perri & Denise Tilles
+- Radical Focus - Christina Wodtke `RIP`
 
 ### UX/UI & Design
 - The Design of Everyday Things - Donald Norman `*`
