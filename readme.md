@@ -77,7 +77,7 @@
 - [Agile Product Owner Role : Techniques]() - Angela Wick
 - [Learning Design Thinking]() - Randall Elliott
 - [Product School : Product Strategy Micro-Certification (PSC)](https://productschool.teachable.com/p/productstrategy) - Michelle Parsons
-- [Coursera - Google UX Design Professional Certificate](https://www.coursera.org/)
+- [Coursera : Google UX Design Professional Certificate](https://www.coursera.org/)
 
 <br>
 
