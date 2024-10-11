@@ -31,6 +31,7 @@
 - Lean Product Playbook - Dan Olsen `👋`
 - Product Operations - Melissa Perri & Denise Tilles
 - Radical Focus - Christina Wodtke `👋`
+- The Best Of Lenny's Newletter Volume 1 - Lenny Rachitsky
 - The Mom Test - Rob Fitzpatrick `🪦`
 
 ### UX/UI & Design
