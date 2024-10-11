@@ -8,3 +8,7 @@
 - Laws of UX : Using Psychology to Design Better Products & Services - Jon Yablonski
 - Designing Interfaces - Jenifer Tidwell, Charles Brewer & Aynne Valencia
 - It Doesn't Have to Be Crazy at Work -  Jason Fried & David Heinemeier Hansson
+
+
+# a partager
+- https://komoroske.com/slime-mold/
