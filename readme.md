@@ -34,12 +34,12 @@
 - The Mom Test - Rob Fitzpatrick `🪦`
 
 ### UX/UI & Design
-- The Design of Everyday Things - Donald Norman `*`
-- Don't Make Me Think - Revisited - Steve Krug `*`
+- The Design of Everyday Things - Donald Norman `👋`
+- Don't Make Me Think - Revisited - Steve Krug `👋`
 - Introduction to design thinking for UX beginners - Uijun Park
 
 ### Others
-- Entreprise Architecture as Strategy - Jeanne Ross, Peter Weill & David Robertson `*`
+- Entreprise Architecture as Strategy - Jeanne Ross, Peter Weill & David Robertson `👋`
 - Agile Project Management with Kanban - Eric Brechner
 
 <br>
