@@ -10,5 +10,5 @@
 - It Doesn't Have to Be Crazy at Work -  Jason Fried & David Heinemeier Hansson
 
 
-# a partager
+# Links
 - https://komoroske.com/slime-mold/
