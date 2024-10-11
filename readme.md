@@ -12,12 +12,12 @@
 
 ## &#128215; Books
 
-- Inspired - Marty Cagan `*`
+- Inspired - Marty Cagan `👋`
 - Empowered - Marty Cagan & Chris Jones 
-- Escaping the Build Trap - Melissa Perri `*`
-- Continuous Discovery Habits - Teresa Torres `*`
+- Escaping the Build Trap - Melissa Perri `👋`
+- Continuous Discovery Habits - Teresa Torres `👋`
 - User Story Mapping -  Jeff Patton
-- Hooked- Nir Eyal `*`
+- Hooked- Nir Eyal `👋`
 - The Lean Startup - Eric Ries
 - Zero to One - Peter Thiel
 - Sprint - Jake Knapp
@@ -27,9 +27,11 @@
 - The Phoenix Project - Gene Kim, Kevin Behr & George Spafford
 - Rework : Change the Way You Work Forever - Jason Fried & David Heinemeier Hansson
 - Good Strategy, Bad Strategy: The Difference and Why It Matters - Richard Rumelt
-- Lean Product Playbook - Dan Olsen `*`
+- Strategize - Roman Pichler
+- Lean Product Playbook - Dan Olsen `👋`
 - Product Operations - Melissa Perri & Denise Tilles
-- Radical Focus - Christina Wodtke `RIP`
+- Radical Focus - Christina Wodtke `👋`
+- The Mom Test - Rob Fitzpatrick `🪦`
 
 ### UX/UI & Design
 - The Design of Everyday Things - Donald Norman `*`
@@ -56,32 +58,21 @@
 
 <br>
 
-## Articles
-- [4 mistakes new product managers make](https://product.hubspot.com/blog/4-mistakes-new-product-managers-make) - Matt Schnitt
-- [Product manager vs. product owner](https://www.launchnotes.com/blog/product-manager-vs-product-owner)
-- [The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html) - Marc Andreessen
-- [The Time Value of Shipping](https://blackboxofpm.com/the-time-value-of-shipping-6deaf8d7d565) - Brandon Chu
-- [Why do they keep hiring PO](https://www.digitalproductjobs.com/why-do-they-keep-hiring-product-owners-and-not-product-managers-and-why-you-should-avoid-companies-that-do/#part-1projectdelivery-vs-product-companies)
-
-
-<br>
-
 ## Formations
 - [Product Management Fundamentals](https://www.pluralsight.com/courses/product-management-fundamentals) - Matthew Pizzi
 - [Product Management : Understanding the Business](https://www.pluralsight.com/courses/product-management-understanding-business) - Jeff Hurd
 - [Product Management : Strategy and Vision](https://www.pluralsight.com/courses/product-management-strategy-vision) - Jeremy Jarrell
-- [Product Management : Product Discovery]() - In progress
 - [Product Management First Steps]() - Doug Winnie
 - [Technical Product Management]() - Marily Nika
 - [Agile Product Owner Role : Foundations]() - Angela Wick
 - [Agile Product Owner Role : Techniques]() - Angela Wick
 - [Learning Design Thinking]() - Randall Elliott
 - [Product School : Product Strategy Micro-Certification (PSC)](https://productschool.teachable.com/p/productstrategy) - Michelle Parsons
-- [Coursera : Google UX Design Professional Certificate](https://www.coursera.org/)
+- [Coursera : Google UX Design Professional Certificate](https://www.coursera.org/)  `WIP`
 
 <br>
 
-## Tools
+## Tools & Ressources
 - [Metrics & KPI](https://github.com/robotsatan/PM-Repos/blob/main/tools/metrics.md)
 - [Speaker Canvas](https://github.com/robotsatan/product-management-repository/blob/main/tools/Speaker%20Canvas.pdf)
 - [Product Kata](https://melissaperri.com/blog/2015/07/22/the-product-kata)
@@ -95,16 +86,19 @@
 - [Better thinking](https://untools.co/)
 - [Laws of UX](https://lawsofux.com/)
 - [DORA](https://dora.dev/)
+- [Product Compass by Pawel Huryn](https://www.productcompass.pm/)
 
 <br>
 
 ## Framework
 
-- [OKRs]()
-- [Kanban]() `Optimal`
+- OKRs
+- Kanban `Optimal`
 - [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 - [Scrum](https://scrumguides.org/index.html) 
-- [SaFe]() 
+- [SaFe](https://scaledagile.com/)
+- [Large-Scale Scrum (LeSS)](https://less.works/less/framework/introduction)
+- [Nexus](https://www.scrum.org/resources/scaling-scrum)
 
 <br>
 
@@ -119,8 +113,3 @@
 | Excalidraw | Sketch diagrams | [https://excalidraw.com/](https://excalidraw.com/) |
 | Penpot | UX/UI Design | [https://penpot.app/](https://penpot.app/) |
 
-<br>
-
-## To Read list
-- [Stop Obsessing Over Development Velocity, Focus on This Instead](https://itamargilad.com/velocity-vs-impact/) - Itamar Gilad
-- [Planning With Outcome Roadmaps](https://itamargilad.com/outcome-roadmaps/) - Itamar Gilad
