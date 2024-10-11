@@ -7,8 +7,8 @@
 <br>
 
 **Legende**
-- `*` Most-Read Books
-- `RIP` Read In Process
+- `👋` Most-Read Books
+- `🪦` Read In Process
 
 ## &#128215; Books
 
