@@ -32,7 +32,7 @@
 - Product Operations - Melissa Perri & Denise Tilles
 - Radical Focus - Christina Wodtke `👋`
 - The Best Of Lenny's Newsletter Volume 1 - Lenny Rachitsky
-- The Mom Test - Rob Fitzpatrick `🪦`
+- The Mom Test - Rob Fitzpatrick
 
 ### UX/UI & Design
 - The Design of Everyday Things - Donald Norman `👋`
@@ -42,6 +42,7 @@
 ### Others
 - Entreprise Architecture as Strategy - Jeanne Ross, Peter Weill & David Robertson `👋`
 - Agile Project Management with Kanban - Eric Brechner
+- Playing to Win: How Strategy Really Works - A.G. Lafley & Roger L. Martin
 
 <br>
 
